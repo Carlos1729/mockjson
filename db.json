@@ -1,5 +1,4 @@
-{
-  "tasks": [
+[
   {
     "id": "1",
     "title": "Running",
@@ -35,5 +34,4 @@
     "title": "Sleep",
     "description": "Should sleep atleast for 7 hours"
   }
-  ]
-}
+]
